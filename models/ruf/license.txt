@@ -1,0 +1,11 @@
+Model Information:
+* title:	1995 RUF CTR2
+* source:	https://sketchfab.com/3d-models/1995-ruf-ctr2-d35ee3b113aa466b9ff0acd66f7a44db
+* author:	supercarmodels (https://sketchfab.com/supercarmodels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1995 RUF CTR2" (https://sketchfab.com/3d-models/1995-ruf-ctr2-d35ee3b113aa466b9ff0acd66f7a44db) by supercarmodels (https://sketchfab.com/supercarmodels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
